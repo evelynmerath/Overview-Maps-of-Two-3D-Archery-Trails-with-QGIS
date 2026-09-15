@@ -40,10 +40,10 @@ Since I also intend to make the maps publicly available through my club, I addit
 
 The project resulted in two detailed overview maps for the 3D archery trails of my club. Both maps show the course layout, shooting stations, relevant infrastructure and basic terrain information such as route distance and elevation gain.
 
-p align="center">
+<p align="center">
   <img src="images/ParcoursAmRoethelfels_2.jpeg" width="48%>
   <img src="images/ParcoursAmSeegrund_Pfloecke.jpeg" width="48%>
-/p
+</p
 
 ---
 ## Tools & Data
