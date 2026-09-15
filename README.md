@@ -2,12 +2,12 @@
 
 Creating overview maps for two 3D archery trails with QGIS and QField, from field data collection to cartographic design and terrain analysis.
 
+![Header Picture](images/header_roethelfels.png)
 ---
 ## Introduction
 
 The idea behind this project was to combine a hobby, practical use and cartography. Archery has been one of my passions for a long time. At the same time, I enjoy creating and designing maps. This combination gave me the idea to create overview maps for the two 3D archery trails of my club.
 
-![Header Picture](images/header_roethelfels.png)
 ---
 ## Inspiration
 
@@ -40,9 +40,11 @@ Since I also intend to make the maps publicly available through my club, I addit
 
 The project resulted in two detailed overview maps for the 3D archery trails of my club. Both maps show the course layout, shooting stations, relevant infrastructure and basic terrain information such as route distance and elevation gain.
 
-| **Am Röthelfels** | **Am Seegrund** |
-|---|---|
-| ![Am Röthelfels](images/ParcoursAmRoethelfels.jpeg) | ![Am Seegrund](images/ParcoursAmSeegrund_Pfloecke.jpeg) |
+**Am Röthelfels**  
+![Am Seegrund](images/ParcoursAmSeegrund_Pfloecke.jpeg)
+
+**Am Seegrund**
+![Am Röthelfels](images/ParcoursAmRoethelfels.jpeg)
 
 ---
 ## Tools & Data
