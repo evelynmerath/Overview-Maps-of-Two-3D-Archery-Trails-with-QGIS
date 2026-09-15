@@ -17,6 +17,7 @@ Since 3D archery trails are often located in forests and on varied terrain, navi
 Until this project, the two trails of my club did not have their own maps. Since this project allowed me to combine my passion for archery with my interest in cartography and GIS, it seemed like the perfect opportunity to change that.
 This project therefore brings together several things that I particularly enjoy: being outdoors, archery, creative work and the practical application of GIS.
 
+![Collage](images/Collage.jpeg)
 ---
 ## Workflow
 
