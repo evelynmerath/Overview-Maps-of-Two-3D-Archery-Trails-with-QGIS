@@ -42,7 +42,7 @@ The project resulted in two detailed overview maps for the 3D archery trails of 
 
 | **Am Röthelfels** | **Am Seegund** |
 |---|---|
-| ![Am Röthelfels](images/ParcoursAmRoethelfels_2.jpeg) | ![Am Seegund](images/ParcoursAmSeegund_P1loeke.jpeg) |
+| ![Am Röthelfels](images/ParcoursAmRoethelfels.jpeg) | ![Am Seegund](images/ParcoursAmSeegrund_P1loeke.jpeg) |
 
 ---
 ## Tools & Data
