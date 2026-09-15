@@ -40,9 +40,9 @@ Since I also intend to make the maps publicly available through my club, I addit
 
 The project resulted in two detailed overview maps for the 3D archery trails of my club. Both maps show the course layout, shooting stations, relevant infrastructure and basic terrain information such as route distance and elevation gain.
 
-| **Am Röthelfels** | **Am Seegund** |
+| **Am Röthelfels** | **Am Seegrund** |
 |---|---|
-| ![Am Röthelfels](images/ParcoursAmRoethelfels.jpeg) | ![Am Seegund](images/ParcoursAmSeegrund_P1loeke.jpeg) |
+| ![Am Röthelfels](images/ParcoursAmRoethelfels.jpeg) | ![Am Seegrund](images/ParcoursAmSeegrund_Pfloecke.jpeg) |
 
 ---
 ## Tools & Data
